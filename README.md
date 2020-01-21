@@ -14,4 +14,5 @@ The project uses MNIST dataset for numbers (0 to 9) and uses similar kind of dat
 ## Character Segmentation
 The steps for character segmentation include vertical edge detection together with horizontal projection for upper and lower boundary removal, and image binarization together with vertical projection to find the segmenting points. After we get the number plate, The character segmentation divides the license plate into individual character images and feeds directly to reconginition algorithm, which inturn saves the output in string format.
 
-![blur.png](https://github.com/Aarif1430/ANPR-Convolutional-Neural-Network/blob/master/Images/blur_process.png) ![contours.png](https://github.com/Aarif1430/ANPR-Convolutional-Neural-Network/blob/master/Images/contours.png)
+![blur.png](https://github.com/Aarif1430/ANPR-Convolutional-Neural-Network/blob/master/Images/blur_process.png) ![contours.png](https://github.com/Aarif1430/ANPR-Convolutional-Neural-Network/blob/master/Images/contours.png)!
+[segmentation.png](https://github.com/Aarif1430/ANPR-Convolutional-Neural-Network/blob/master/Images/segmentation.png)
