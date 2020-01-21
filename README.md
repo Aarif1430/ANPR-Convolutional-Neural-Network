@@ -24,3 +24,7 @@ After we have got segments of image, image is divided into number of segments an
 
 ## CNN image recgnition
 The invidivdual segments are feed to trained CNN for recongnition and output is saved in string format. 
+
+## Credits 
+
+The project was inspired by [Micheal_Nelson](http://neuralnetworksanddeeplearning.com/). The idea was to solve a real world problem using concepts described in book. [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&t=7s) has also got a good playlist on neural networks for indepth understanding of backpropagation.
