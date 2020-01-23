@@ -11,8 +11,8 @@ A convolutional neural network implemented using Theano for Automatic Number Pla
 ## Training datasets
 The project uses MNIST dataset for numbers (0 to 9) and uses similar kind of dataset for alphabets recoginition [this] (https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format). The data prepration steps combines both the datasets in a single dataset and split it into training and testing datasets. A Convolutional Neural Network is trained using Theano and saved the weights and biases as python's pickle file. The code can also be run on GPU which makes training process faster. The model accuracy was 99% with two convoutional pool layers. Training CNN for such a hughe dataset is very time consuming and requires a lot of CPU power, There are two ways to train CNN in cloud
 
-- Training CNN on free Google Cloud - I will be covering this part in a YouTube Video
-- Training CNN on rented GPU on cloud - Video link to be attached.
+- Training CNN on free Google Cloud - 
+- Training CNN on rented GPU on cloud - 
 
 
 ## Character Segmentation
